@@ -1,0 +1,3 @@
+Bobik,must,1
+Samolet,valge,1
+Vertalet,kollane,1
